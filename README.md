@@ -1,2 +1,2 @@
 # Xylophone-Kit
-Xylophone sounds using QWERTY keyboard
+Use the ASDFGJK keys on your keyboard to play Xylophone sounds
